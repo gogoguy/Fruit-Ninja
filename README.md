@@ -3,7 +3,6 @@ A remake of the popular game "Fruit Ninja" using python and pygame.
 
 Dependencies:
   pygame
-  random
   os
   time
 
