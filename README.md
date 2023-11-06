@@ -3,8 +3,7 @@ A remake of the popular game "Fruit Ninja" using python and pygame.
 
 Dependencies:
   pygame
-  os
-  time
+
 
 
 <img width="751" alt="image" src="https://github.com/gogoguy/Fruit-Ninja/assets/9537698/6c65e72e-8d8c-451a-b0b2-47bb6786594d">
