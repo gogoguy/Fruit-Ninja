@@ -1,5 +1,5 @@
 # Fruit-Ninja
-A remake of the popular game "Fruit Ninja" using python and pygame. I made this as a high school project.
+A remake of the popular game "Fruit Ninja" using python and pygame.
 
 Dependencies:
   pygame
